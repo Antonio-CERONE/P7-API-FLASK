@@ -11,7 +11,7 @@ Développement d'un modèle de notation de Crédit à la Consommation qui prédi
    
 ## Livrables
 - API [**Flask**](https://pypi.org/project/Flask/) deployée sous **HEROKU**<br>
-      - <u>*Vision globale de tout l'echantillon de données*</u><br>
+      - <u>*Vision globale de tout l'echantillon de données ; 250 clients*</u><br>
                   - Vers [**API-Clients**](https://p7-api-flask.herokuapp.com/api_client/all)<br>
                   - Vers [**API-Data**](https://p7-api-flask.herokuapp.com/api_data/all)<br>
                   - Vers [**API-Probabilités**](https://p7-api-flask.herokuapp.com/api_proba/all)<br><p>
