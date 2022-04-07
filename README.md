@@ -15,7 +15,7 @@ Développement d'un modèle de notation de Crédit à la Consommation qui prédi
                   - Vers [**API-Clients**](https://p7-api-flask.herokuapp.com/api_client/all)<br>
                   - Vers [**API-Data**](https://p7-api-flask.herokuapp.com/api_data/all)<br>
                   - Vers [**API-Probabilités**](https://p7-api-flask.herokuapp.com/api_proba/all)<br><p>
-      - <u>*Vision locale, pour un Client particulier, ici le Client ID 330086 par exemple..*</u><br>
+      - <u>*Vision locale, pour un Client particulier, ici le Client ID 330086 par exemple...*</u><br>
                   - Vers [**API-Client ID 330086**](https://p7-api-flask.herokuapp.com/api_client/choix_client?id=330086)<br>
                   - Vers [**API-Data-Client ID 330086**](https://p7-api-flask.herokuapp.com/api_data/client_choisi?id=330086)<br>
                   - Vers [**API-Probabilités-Client ID 330086**](https://p7-api-flask.herokuapp.com/api_proba/client_choisi?id=330086)<br>
